@@ -1,3 +1,3 @@
 #KOKOA-CLONE-2021
 
-css got so much better
+html & css are so much fun
