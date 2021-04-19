@@ -13,4 +13,18 @@
 }
 .nav__link {
   opacity: 0.8;
+  position: relative;
+}
+.nav__notification {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+}
+.nav__dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  position: absolute;
+  right: -5px;
 }

@@ -24,3 +24,7 @@ form태그의 위엄!
 
 이렇게 쓰기가 너무 힘들어서 vsc가 제공하는 방법이있다
 nav>ul>li*4>a 라고 쓰면 된다 how cool is that
+
+.user-component__column*2 이라고쓰면
+위의 class명을 가진 div가 2개 만들어진다 
+man how cool is that 
