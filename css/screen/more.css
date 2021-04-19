@@ -33,3 +33,7 @@
   font-size: 32px;
   color: white;
 }
+.more-suggestions__icon:nth-child(2) .more-suggestions__icon-image i {
+  font-size: 32px;
+  color: black;
+}
